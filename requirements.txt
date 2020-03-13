@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+statsmodels
+scipy
+plotly
+nb_black
+jupyter
